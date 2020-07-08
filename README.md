@@ -1,7 +1,3 @@
-# ca
-
-# 說明
-
 ## GOOGLE_PLACES_API_KEY 所需求的 Google API 權限
 - [Google API 申請連結](https://console.developers.google.com/?hl=zh-tw)
   - Distance Matrix API
